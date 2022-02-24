@@ -9,12 +9,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+    top: 450px;
+
 }
 
 
-.socialmedia{
+.social{
     display: flex;
-    flex: 0.5;
+    align-items: center;
+    flex: 1.5;
+    justify-content: center;
 }
 
 .content h3.flundar{
