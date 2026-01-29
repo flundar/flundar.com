@@ -7,7 +7,6 @@ import {
   Database,
   Cloud,
   Settings,
-  Terminal as TerminalIcon,
   Server,
   ChevronRight,
   Activity,
