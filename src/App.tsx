@@ -220,7 +220,7 @@ export default function App() {
             className="flex items-center gap-3 font-bold text-xl group"
           >
             <div className="w-8 h-8 rounded border border-primary/40 bg-primary/10 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-black transition-all shadow-glow">
-              <TerminalIcon size={18} />
+              <img src="/flundar.webp" alt="flundar" width={256} height={256} />
             </div>
             <span className="tracking-tighter uppercase whitespace-nowrap">flundar:<span className="text-primary animate-pulse">_</span></span>
           </motion.div>
@@ -504,7 +504,7 @@ export default function App() {
         <div className="container mx-auto px-4 text-center space-y-12">
           <div className="flex flex-col items-center gap-4">
             <div className="w-12 h-12 rounded border border-primary/40 flex items-center justify-center text-primary bg-primary/5">
-              <TerminalIcon size={24} />
+              <img src="/flundar.webp" alt="flundar" width={256} height={256} />
             </div>
             <p className="text-[10px] opacity-40 uppercase tracking-[0.5em] font-bold">End of Transmission</p>
           </div>
